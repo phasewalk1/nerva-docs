@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["feed","Retrieve a list of Asteroids based on their closest approach date to Earth"],["lookup","Lookup a specific Asteroid based on its NASA JPL small body (SPK-ID) ID"]]};

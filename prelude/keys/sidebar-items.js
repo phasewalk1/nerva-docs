@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["include","Loads an API key from .env file with key NASA_API_KEY and appends it to the query"],["load","Loads an API key from .env file with key NASA_API_KEY"]]};

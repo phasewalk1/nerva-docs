@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["epic_client","Earth Polychromatic Imaging Camera (EPIC) client"],["epic_parameters","Parameters for the EPIC API"]]};

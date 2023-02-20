@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Earth",""],["EarthParams","Parameters for the Earth API"]]};

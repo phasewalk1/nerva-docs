@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["cme","DONKI Coronal Mass Ejection (CME) Endpoint"],["flr","DONKI Solar Flare (FLR) Endpoint"],["gst","DONKI Geomagnetic Storm (GST) Endpoint"],["ips","DONKI Interplanetary Shock (IPS) Endpoint"],["rbe","DONKI Radiation Belt Enhancement (RBE) Endpoint"],["sep","DONKI Solar Energetic Particle (SEP) Endpoint"]]};
